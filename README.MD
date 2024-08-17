@@ -3,4 +3,4 @@
 - Estado delproyecto: en construccion.
 - PAra ejecutar el sistema debes poner:
 
-```npm install read````
+```npm install read```
